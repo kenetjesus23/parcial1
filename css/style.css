@@ -1,0 +1,69 @@
+.header{
+    background-color: mediumblue;
+    
+    }
+
+.a{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+aside {
+    width: 20%;
+    padding: 10px;
+    width: 20%;
+}
+
+.div1 {
+    height: 30%;
+    width: 30%;
+    padding: 40px;
+    text-align: center;
+    flex-basis: 2200px;
+}
+.container {
+    display: flex;
+   }
+   
+  
+
+.div3{
+    background-color: red;
+    }
+
+    
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+.container p {
+    width: 30%;
+    text-align: justify; 
+}
+
+strong{
+    color: red;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .left {
+    
+    width: 25%;
+  }
+
+  .right {
+    
+    width: 25%;
+  }
+
